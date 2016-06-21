@@ -1,5 +1,5 @@
 # mmf2_robot
-http://telegram.me/siarobot
+http://telegram.me/mmf2_robot
 
 ## How to Run ?
 First of all install Python >= 3.5 and then install `pip3`.
@@ -115,4 +115,4 @@ You can pass some other arguments in Message, so its good to look at message.py 
 
 
 ### Please
-please feel free to ask any questions here by issues or on telegram via [@Siyanew](https://telegram.me/siyanew/)
+please feel free to ask any questions here by issues or on telegram via [@mmf](https://telegram.me/Ww_king_mmf_wW)
