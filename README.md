@@ -104,14 +104,7 @@ You can pass some other arguments in Message, so its good to look at message.py 
 * My English is not good, so maybe there are some Gramatically and Dictation mistakes. Feel free to fork and correct the mistakes.😅
 * Step handler must combine chat_id and from_id but it doesn't.It will be ok as soon as possible, so if user step handler opened in a group it will be finalize in the private or another groups that bot added to them!
 
-#Thanks to
-[Nickoala](https://github.com/nickoala/) For his amazing Framework
 
-[Imandaneshi](https://github.com/imandaneshi)
-
-[Flöö](https://github.com/arandomstranger)
-
-@af_zoun
 
 
 ### Please
