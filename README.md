@@ -1,5 +1,5 @@
-# Siarobo
-Siarobo is a telegram bot based on [Telepot](https://github.com/nickoala/telepot) - http://telegram.me/siarobot
+# mmf2_robot
+http://telegram.me/siarobot
 
 ## How to Run ?
 First of all install Python >= 3.5 and then install `pip3`.
